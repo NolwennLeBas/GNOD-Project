@@ -10,6 +10,7 @@ The goal of this project is to build a music recommender that will take a song a
 
 The top charts songs will be extracted from Popvortex, a website that maintains a weekly Top 100 of "hot" songs here: [http://www.popvortex.com/music/charts/top-100-songs.php](http://www.popvortex.com/music/charts/top-100-songs.php). Another dataset composed of 10 000 songs from Spotify will be used to recommend a song in case the user input is not included in the top100 current chart songs.
 
-The final song recommender can be found in the 'song_recommender.ipynb' file. Enjoy the vibes!
+The final song recommender can be found in the `song_recommender.ipynb` file. Enjoy the vibes!
 
-"Music expresses feeling and thought, without language; it was below and before speech, and it is above and beyond all words." ~ Robert Green Ingersoll
+"Music expresses feeling and thought, without language; it was below and before speech, and it is above and beyond all words."
+~ Robert Green Ingersoll
